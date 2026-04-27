@@ -174,6 +174,7 @@ echo "reboot now"
 sudo reboot
 
 
+
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
 
